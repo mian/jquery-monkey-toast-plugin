@@ -1,0 +1,29 @@
+{
+  "name": "Monkey toast plugin",
+  "authors": [
+    "Mian Muhammad <se.mianasif@gmail.com>"
+  ],
+  "description": "Jqiery monkey toast message plugin",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquerytoast",
+    "monkeytoast",
+    "notification"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "jquery-monkey-toast-plugin": "mianmohammad/jquery-monkey-toast-plugin"
+  }
+}
