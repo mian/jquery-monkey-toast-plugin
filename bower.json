@@ -5,12 +5,10 @@
   ],
   "description": "Jqiery monkey toast message plugin",
   "main": [
-    "./dist/toastrmonkey.min.cdd",
+    "./dist/toastrmonkey.min.css",
     "./dist/toastrmonkey.min.js"
   ],
-  "moduleType": [
-    "amd"
-  ],
+  "moduleType": [],
   "keywords": [
     "jquerytoast",
     "monkeytoast",
