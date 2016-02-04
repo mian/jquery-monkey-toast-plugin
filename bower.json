@@ -4,7 +4,10 @@
     "Mian Muhammad <se.mianasif@gmail.com>"
   ],
   "description": "Jqiery monkey toast message plugin",
-  "main": "index.html",
+  "main": [
+    "./dist/toastrmonkey.min.cdd",
+    "./dist/toastrmonkey.min.js"
+  ],
   "moduleType": [
     "amd"
   ],
