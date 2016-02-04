@@ -1,16 +1,15 @@
 {
   "name": "Monkey toast plugin",
+  "version": "0.1",
   "authors": [
     "Mian Muhammad <se.mianasif@gmail.com>"
   ],
   "description": "Jqiery monkey toast message plugin",
   "main": [
-    "./dist/toastrmonkey.min.cdd",
+    "./dist/toastrmonkey.min.css",
     "./dist/toastrmonkey.min.js"
   ],
-  "moduleType": [
-    "amd"
-  ],
+  "moduleType": [],
   "keywords": [
     "jquerytoast",
     "monkeytoast",
